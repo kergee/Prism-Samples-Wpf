@@ -67,3 +67,6 @@ Topic | 描述
 [30]: 27-StylingDialog/
 [31]: 28-UsingCustomWindow/
 [32]: 29-InvokeCommandAction/
+
+其他入门教程：
+- https://elf-mission.net/wpf-prism-index/
