@@ -71,3 +71,4 @@ Topic | 描述
 其他入门教程：
 - https://elf-mission.net/wpf-prism-index/
 - https://wpf-tutorial.com/Localization/LanguageStatus/zh/
+- https://wpf.2000things.com/
